@@ -1,0 +1,5 @@
+c-server/node_modules/
+c-server/.vscode/
+c-frontend/node_modules/
+c-frontend/.vscode/
+.vscode/
